@@ -3,7 +3,7 @@ theme = 'blowfish'
 # Refer to the theme docs for more details about each of these parameters.
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
+ baseURL = "https://acetrondi.github.io/easytohhaiblog.github.io/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
